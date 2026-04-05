@@ -1,0 +1,31 @@
+version: 1
+project:
+  id: 9ad4e67b-9d20-4a34-a311-f742b0c2e0fd
+  title: pymboost
+  description: Rebuilding the pymboost documentation around explicit, executable tutorials that track the R mboost literature.
+  authors:
+    - name: pymboost contributors
+  toc:
+    - file: intro.md
+    - file: mathematical-foundations.md
+    - file: getting-started.md
+    - file: api-quick-reference.md
+    - file: glmboost.md
+    - file: gamboost.md
+    - file: cv-and-stopping.md
+    - file: families.md
+    - file: baselearners.md
+    - file: performance.md
+    - file: diagnostics.md
+    - file: inference.md
+    - file: varimp.md
+    - file: formula-reference.md
+    - file: practical-workflow.md
+    - file: parity-wall.md
+    - file: migration-from-r.md
+    - file: known-deviations.md
+    - file: status-and-roadmap.md
+    - file: prediction-and-deployment.md
+    - file: conclusion.md
+site:
+  template: book-theme

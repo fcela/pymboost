@@ -1,0 +1,74 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pymboost"
+version = "0.1.0"
+description = "Model-Based Boosting – Python implementation inspired by the R mboost package"
+readme = "README.md"
+requires-python = ">=3.9"
+license = "GPL-2.0-or-later"
+authors = [
+    {name = "mboost Python contributors"},
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Topic :: Scientific/Engineering",
+]
+dependencies = [
+    "numpy>=1.21",
+    "polars>=1.0",
+    "scipy>=1.7",
+    "numba>=0.59",
+    "formulaic>=1.2",
+    "scikit-learn>=1.0",
+    "joblib>=1.0",
+]
+
+[project.optional-dependencies]
+plot = ["altair>=5.0", "pandas>=2.0"]
+test = ["pytest>=8.0", "nbformat>=5.10"]
+docs = [
+    "altair>=5.0",
+    "pandas>=2.0",
+    "ipykernel>=6.29",
+    "jupyter>=1.0",
+    "jupyter-book>=2.1",
+    "nbformat>=5.10",
+]
+build = ["build>=1.2"]
+rtest = ["rpy2>=3.5"]
+survival = ["lifelines>=0.27"]
+dev = [
+    "altair>=5.0",
+    "build>=1.2",
+    "ipykernel>=6.29",
+    "jupyter>=1.0",
+    "jupyter-book>=2.1",
+    "nbformat>=5.10",
+    "pandas>=2.0",
+    "pytest>=8.0",
+    "rpy2>=3.5",
+]
+all = [
+    "altair>=5.0",
+    "build>=1.2",
+    "ipykernel>=6.29",
+    "jupyter>=1.0",
+    "jupyter-book>=2.1",
+    "lifelines>=0.27",
+    "nbformat>=5.10",
+    "pandas>=2.0",
+    "pytest>=8.0",
+    "rpy2>=3.5",
+]
+
+[tool.setuptools.packages.find]
+include = ["mboost*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

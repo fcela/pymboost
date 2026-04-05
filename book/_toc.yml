@@ -1,0 +1,47 @@
+format: jb-book
+root: intro
+parts:
+  - caption: Getting Started
+    chapters:
+      - file: mathematical-foundations
+      - file: getting-started
+      - file: api-quick-reference
+  - caption: Core Models
+    chapters:
+      - file: glmboost
+      - file: gamboost
+      - file: cv-and-stopping
+  - caption: Advanced Topics
+    chapters:
+      - file: families
+      - file: baselearners
+        sections:
+          - file: baselearners/bols
+          - file: baselearners/bbs
+          - file: baselearners/bmono
+          - file: baselearners/brandom
+          - file: baselearners/btree
+          - file: baselearners/blackboost
+      - file: performance
+  - caption: Diagnostics & Inference
+    chapters:
+      - file: diagnostics
+      - file: inference
+      - file: varimp
+  - caption: Formula & Syntax
+    chapters:
+      - file: formula-reference
+      - file: practical-workflow
+  - caption: Parity & Verification
+    chapters:
+      - file: parity-gallery
+      - file: parity-wall
+      - file: migration-from-r
+      - file: known-deviations
+  - caption: Status & Future
+    chapters:
+      - file: status-and-roadmap
+      - file: prediction-and-deployment
+  - caption: Summary
+    chapters:
+      - file: conclusion

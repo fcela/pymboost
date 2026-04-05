@@ -1,0 +1,6415 @@
+{
+  "aic": [
+    5.653292716419694,
+    5.492154985805332,
+    5.337733944789333,
+    5.188599981625922,
+    5.047795937761561,
+    4.908161190869732,
+    4.7765427709826564,
+    4.650091115479119,
+    4.529944506825496,
+    4.417473340622412,
+    4.312154630666879,
+    4.2138573595377276,
+    4.1221761787109035,
+    4.039778879448793,
+    3.962149123681275,
+    3.8920963842160896,
+    3.8270938362290776,
+    3.769114448887937,
+    3.715890511559532,
+    3.669076814919946,
+    3.626477190415839,
+    3.588781800923594,
+    3.5560846911633583,
+    3.526073358945888,
+    3.50114194603938,
+    3.478081401500541,
+    3.458773404646822,
+    3.4421422979910052,
+    3.4273224899195998,
+    3.415012902315405,
+    3.4040796886696,
+    3.395133914629172,
+    3.387207461864442,
+    3.3805952601088425,
+    3.374883561696433,
+    3.3700751900339343,
+    3.3660141594890787,
+    3.3626454350025132,
+    3.3597852953943583,
+    3.357451501686562,
+    3.3555910136572793,
+    3.3540227969044802,
+    3.354973765328132,
+    3.3538028471521484,
+    3.3527379312955237,
+    3.3539029114307293,
+    3.353199778959996,
+    3.3544086045677357,
+    3.3539790176892836,
+    3.353570482288628,
+    3.3548520829131636,
+    3.354641240051759,
+    3.3558905049436407,
+    3.3557828653181696,
+    3.3558422054064874,
+    3.357077175125075,
+    3.359178075778426,
+    3.3591656021201404,
+    3.3610587709951667,
+    3.3610472688603172,
+    3.362241188154807,
+    3.3639576944933296,
+    3.3639583142258953,
+    3.3655132807747736,
+    3.365747318120275,
+    3.365798511773445,
+    3.367205835012439,
+    3.3683697000798025,
+    3.368421883357094,
+    3.3697091592732633,
+    3.3699261785764243,
+    3.371106064111817,
+    3.371171035265135,
+    3.3722507571457347,
+    3.3723103372075927,
+    3.373300774167885,
+    3.3735529436862826,
+    3.3746852117235133,
+    3.37560445830336,
+    3.3757062731722476,
+    3.376552502486537,
+    3.3766456688654833,
+    3.376956927660822,
+    3.377739347211075,
+    3.377853868841357,
+    3.378577360203349,
+    3.3796456945541706,
+    3.379753040097976,
+    3.3804254546139343,
+    3.380736868596264,
+    3.3813546501142455,
+    3.381470677762862,
+    3.382045587942687,
+    3.3821516392001145,
+    3.3831474915650497,
+    3.383684985603197,
+    3.3840706895693433,
+    3.3845731089602524,
+    3.384708271446435,
+    3.385177935414651,
+    3.3853008998951655,
+    3.3862178575705695,
+    3.3866588484225333,
+    3.387023570000364,
+    3.3874374039641233,
+    3.387584536227381,
+    3.387949596993754,
+    3.38834157294332,
+    3.3884929788712324,
+    3.388860696906541,
+    3.3889977372638134,
+    3.3893429835683913,
+    3.389681868307543,
+    3.3905443733354512,
+    3.3908339886630032,
+    3.3909874100878588,
+    3.391322880819672,
+    3.391705230785807,
+    3.3919823795205417,
+    3.3922548826636785
+  ],
+  "aic_df": [
+    0.10000000000000002,
+    0.19240839413923352,
+    0.27557594886454373,
+    0.3526125864216957,
+    0.42194556022313245,
+    0.499846585685807,
+    0.5606561633263993,
+    0.6276213026263019,
+    0.6803853103477435,
+    0.738627337974471,
+    0.7841689016697777,
+    0.8404663420352638,
+    0.8818632964121864,
+    0.9312650787617643,
+    0.9673958674461114,
+    1.0254455336072636,
+    1.069037758307444,
+    1.121031263738197,
+    1.1601561215969285,
+    1.2068602678118265,
+    1.245279943536192,
+    1.2713677942631807,
+    1.3037624227292846,
+    1.3450322035792992,
+    1.3821750063443117,
+    1.4116590328474499,
+    1.4349101255991072,
+    1.4614958349088454,
+    1.4952617207074643,
+    1.5194731410162787,
+    1.5501852998748213,
+    1.5763331452946556,
+    1.6042997559665286,
+    1.6251099230714252,
+    1.6506950807847047,
+    1.6681553478049065,
+    1.6877307305013094,
+    1.711453297287944,
+    1.7294145619477728,
+    1.7512127273501346,
+    1.7721562305102871,
+    1.7922142062210633,
+    1.8832606016563773,
+    1.9013714250738807,
+    1.917234287339224,
+    1.9991052187322782,
+    2.015969611487607,
+    2.089717647697389,
+    2.1083407242622347,
+    2.1230426139974097,
+    2.189673971003554,
+    2.2060010603322424,
+    2.2660397693509333,
+    2.2807720958886137,
+    2.298636844500638,
+    2.352922721466663,
+    2.4330222028200374,
+    2.446575866411608,
+    2.518513417329464,
+    2.530535260338442,
+    2.57937468936945,
+    2.644088468972126,
+    2.6548092583793204,
+    2.713201378274512,
+    2.7303948237282096,
+    2.740502735470087,
+    2.7935330595562333,
+    2.83763379326705,
+    2.8466837441377217,
+    2.894700818089839,
+    2.9082613145829623,
+    2.9517018532627928,
+    2.9602971562703293,
+    2.9998579019842544,
+    3.007561197328174,
+    3.0436683551081587,
+    3.056746211141533,
+    3.0967075148164183,
+    3.129765797039235,
+    3.1376595632682354,
+    3.167950213522048,
+    3.1750436968580034,
+    3.188406720276107,
+    3.216448584162698,
+    3.2233645246533613,
+    3.2491348873742893,
+    3.2852577787248665,
+    3.2915099757043884,
+    3.3152343989923816,
+    3.327503579341407,
+    3.3490829870335763,
+    3.3552551709703358,
+    3.3752331787031964,
+    3.380808138116542,
+    3.413513420624331,
+    3.432042323248791,
+    3.445901878872986,
+    3.4631023377181367,
+    3.4691314847832464,
+    3.485133803354498,
+    3.4905755347872205,
+    3.5201228166092027,
+    3.535039698080266,
+    3.5476542035816228,
+    3.561565250084691,
+    3.56742409018428,
+    3.5797445641628665,
+    3.5929067229795906,
+    3.598622766418092,
+    3.610908946189351,
+    3.61606774040335,
+    3.62754780523739,
+    3.6387781662124072,
+    3.6659140979567515,
+    3.6755731696256864,
+    3.681098295192533,
+    3.6921394751580623,
+    3.7045755073256807,
+    3.7138397901016216,
+    3.722960412889961
+  ],
+  "aic_selected": 45,
+  "coef_path": [
+    {
+      "coefficient": -9.500216052164012,
+      "iteration": 1,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -15.140949936139435,
+      "iteration": 2,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -22.938757140822382,
+      "iteration": 3,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -27.571604314644095,
+      "iteration": 4,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -33.97168015969676,
+      "iteration": 5,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -39.06746428932819,
+      "iteration": 6,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -42.579571463318594,
+      "iteration": 7,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -46.81738502407849,
+      "iteration": 8,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -51.33535708641659,
+      "iteration": 9,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -54.87389720817533,
+      "iteration": 10,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -58.64677265493501,
+      "iteration": 11,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -61.86065384354866,
+      "iteration": 12,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -63.941986002480824,
+      "iteration": 13,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -66.6256478839781,
+      "iteration": 14,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -69.31951875087347,
+      "iteration": 15,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -71.96490958724785,
+      "iteration": 16,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -74.09643663776589,
+      "iteration": 17,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -76.35164813458103,
+      "iteration": 18,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -78.16989577423922,
+      "iteration": 19,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -80.09241173729905,
+      "iteration": 20,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -81.3020175904928,
+      "iteration": 21,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -82.8420075617968,
+      "iteration": 22,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -84.15302196416285,
+      "iteration": 23,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -85.58503908463813,
+      "iteration": 24,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -86.87385449306588,
+      "iteration": 25,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -87.93296814277642,
+      "iteration": 26,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -88.607971525891,
+      "iteration": 27,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -89.49344711070563,
+      "iteration": 28,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -90.4580455484597,
+      "iteration": 29,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -91.21214740787401,
+      "iteration": 30,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -92.0358363897378,
+      "iteration": 31,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -92.53751116552377,
+      "iteration": 32,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -93.23893295541588,
+      "iteration": 33,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -93.78978592312352,
+      "iteration": 34,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -94.3885961793348,
+      "iteration": 35,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -94.89577412905426,
+      "iteration": 36,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -95.3336428529644,
+      "iteration": 37,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -95.80567058456907,
+      "iteration": 38,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -96.17879538532716,
+      "iteration": 39,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -96.58162695858461,
+      "iteration": 40,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -96.82992331972959,
+      "iteration": 41,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -97.1727246771267,
+      "iteration": 42,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -97.29107721294565,
+      "iteration": 43,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -97.59553784904875,
+      "iteration": 44,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -97.84582875851588,
+      "iteration": 45,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -97.94730872956842,
+      "iteration": 46,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.20308850973557,
+      "iteration": 47,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.2931962656308,
+      "iteration": 48,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.44988785324685,
+      "iteration": 49,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.65096637452064,
+      "iteration": 50,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.72818030187632,
+      "iteration": 51,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.9238882087145,
+      "iteration": 52,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.99244404242603,
+      "iteration": 53,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.1662290600292,
+      "iteration": 54,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.27641414731153,
+      "iteration": 55,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.33556975702696,
+      "iteration": 56,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.12521446819873,
+      "iteration": 57,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.2777737425144,
+      "iteration": 58,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.07856691197878,
+      "iteration": 59,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.222447549973,
+      "iteration": 60,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.27353998980865,
+      "iteration": 61,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.08620842053058,
+      "iteration": 62,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.2201332528343,
+      "iteration": 63,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.04285543192819,
+      "iteration": 64,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.1297628644358,
+      "iteration": 65,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.24923670055686,
+      "iteration": 66,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.07760850629857,
+      "iteration": 67,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.1200736815398,
+      "iteration": 68,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.2318099024738,
+      "iteration": 69,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.07116632202523,
+      "iteration": 70,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.16398850094347,
+      "iteration": 71,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.01561432853447,
+      "iteration": 72,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.12090859950918,
+      "iteration": 73,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.9805479269192,
+      "iteration": 74,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.07994711491784,
+      "iteration": 75,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.9471806410557,
+      "iteration": 76,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.03537556983927,
+      "iteration": 77,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.06908137549593,
+      "iteration": 78,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.94603653442073,
+      "iteration": 79,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.03564000076302,
+      "iteration": 80,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.91909261698017,
+      "iteration": 81,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.00358382798714,
+      "iteration": 82,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.07262995196312,
+      "iteration": 83,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.95943870737845,
+      "iteration": 84,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.03514823824177,
+      "iteration": 85,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.92836953030336,
+      "iteration": 86,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.95570376638449,
+      "iteration": 87,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -99.02643008234138,
+      "iteration": 88,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.92642997810405,
+      "iteration": 89,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.9849789681468,
+      "iteration": 90,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.89258515235146,
+      "iteration": 91,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.95914008461426,
+      "iteration": 92,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.87167235436081,
+      "iteration": 93,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.93445975021625,
+      "iteration": 94,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.95676752975555,
+      "iteration": 95,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.87453596387525,
+      "iteration": 96,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.91044663103827,
+      "iteration": 97,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.83314140543773,
+      "iteration": 98,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.88985814562272,
+      "iteration": 99,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.81660774068624,
+      "iteration": 100,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.87007134459017,
+      "iteration": 101,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.88868393596616,
+      "iteration": 102,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.81975970318263,
+      "iteration": 103,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.85026298009919,
+      "iteration": 104,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.78543078539543,
+      "iteration": 105,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.83367828381253,
+      "iteration": 106,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.87234448352764,
+      "iteration": 107,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.80928784926688,
+      "iteration": 108,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.85251343193347,
+      "iteration": 109,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.79296109494753,
+      "iteration": 110,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.83383038253027,
+      "iteration": 111,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.77758462000463,
+      "iteration": 112,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.81145659823247,
+      "iteration": 113,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.8255365687555,
+      "iteration": 114,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.7941202328664,
+      "iteration": 115,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.83231972055421,
+      "iteration": 116,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.77974479225637,
+      "iteration": 117,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.80229322557044,
+      "iteration": 118,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.77095104332774,
+      "iteration": 119,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": -98.80365638685046,
+      "iteration": 120,
+      "term": "(Intercept)"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 1,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 2,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 3,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 4,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 5,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 6,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 7,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 8,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 9,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 10,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 11,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 12,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 13,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 14,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 15,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 16,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 17,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 18,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 19,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 20,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 21,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 22,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 23,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 24,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 25,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 26,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 27,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 28,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 29,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 30,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 31,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 32,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 33,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 34,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 35,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 36,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 37,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 38,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 39,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 40,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 41,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 42,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.002327064537010767,
+      "iteration": 43,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.002327064537010767,
+      "iteration": 44,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.002327064537010767,
+      "iteration": 45,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.004322378285205176,
+      "iteration": 46,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.004322378285205176,
+      "iteration": 47,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.006094089907625913,
+      "iteration": 48,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.006094089907625913,
+      "iteration": 49,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.006094089907625913,
+      "iteration": 50,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.007612281223675148,
+      "iteration": 51,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.007612281223675148,
+      "iteration": 52,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.008960235860484547,
+      "iteration": 53,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.008960235860484547,
+      "iteration": 54,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.008960235860484547,
+      "iteration": 55,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.010123361944614977,
+      "iteration": 56,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.010123361944614977,
+      "iteration": 57,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.010123361944614977,
+      "iteration": 58,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.010123361944614977,
+      "iteration": 59,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.010123361944614977,
+      "iteration": 60,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011127948825902964,
+      "iteration": 61,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011127948825902964,
+      "iteration": 62,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011127948825902964,
+      "iteration": 63,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011127948825902964,
+      "iteration": 64,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011127948825902964,
+      "iteration": 65,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011127948825902964,
+      "iteration": 66,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011127948825902964,
+      "iteration": 67,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011962905193149418,
+      "iteration": 68,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011962905193149418,
+      "iteration": 69,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011962905193149418,
+      "iteration": 70,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011962905193149418,
+      "iteration": 71,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011962905193149418,
+      "iteration": 72,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011962905193149418,
+      "iteration": 73,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011962905193149418,
+      "iteration": 74,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011962905193149418,
+      "iteration": 75,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011962905193149418,
+      "iteration": 76,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.011962905193149418,
+      "iteration": 77,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.012625633579087709,
+      "iteration": 78,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.012625633579087709,
+      "iteration": 79,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.012625633579087709,
+      "iteration": 80,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.012625633579087709,
+      "iteration": 81,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.012625633579087709,
+      "iteration": 82,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.012625633579087709,
+      "iteration": 83,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.012625633579087709,
+      "iteration": 84,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.012625633579087709,
+      "iteration": 85,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.012625633579087709,
+      "iteration": 86,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0131630832500268,
+      "iteration": 87,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0131630832500268,
+      "iteration": 88,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0131630832500268,
+      "iteration": 89,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0131630832500268,
+      "iteration": 90,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0131630832500268,
+      "iteration": 91,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0131630832500268,
+      "iteration": 92,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0131630832500268,
+      "iteration": 93,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0131630832500268,
+      "iteration": 94,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013601702011392333,
+      "iteration": 95,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013601702011392333,
+      "iteration": 96,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013601702011392333,
+      "iteration": 97,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013601702011392333,
+      "iteration": 98,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013601702011392333,
+      "iteration": 99,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013601702011392333,
+      "iteration": 100,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013601702011392333,
+      "iteration": 101,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013967665453013927,
+      "iteration": 102,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013967665453013927,
+      "iteration": 103,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013967665453013927,
+      "iteration": 104,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013967665453013927,
+      "iteration": 105,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013967665453013927,
+      "iteration": 106,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013967665453013927,
+      "iteration": 107,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013967665453013927,
+      "iteration": 108,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013967665453013927,
+      "iteration": 109,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013967665453013927,
+      "iteration": 110,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013967665453013927,
+      "iteration": 111,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013967665453013927,
+      "iteration": 112,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.013967665453013927,
+      "iteration": 113,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.014244507853217375,
+      "iteration": 114,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.014244507853217375,
+      "iteration": 115,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.014244507853217375,
+      "iteration": 116,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.014244507853217375,
+      "iteration": 117,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.014244507853217375,
+      "iteration": 118,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.014244507853217375,
+      "iteration": 119,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.014244507853217375,
+      "iteration": 120,
+      "term": "age"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 1,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.06455177230944441,
+      "iteration": 2,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.06455177230944441,
+      "iteration": 3,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.11756942959665975,
+      "iteration": 4,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.11756942959665975,
+      "iteration": 5,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.11756942959665975,
+      "iteration": 6,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.1577614945451331,
+      "iteration": 7,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.1577614945451331,
+      "iteration": 8,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.1577614945451331,
+      "iteration": 9,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.1577614945451331,
+      "iteration": 10,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.1577614945451331,
+      "iteration": 11,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.1577614945451331,
+      "iteration": 12,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18157996965621648,
+      "iteration": 13,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18157996965621648,
+      "iteration": 14,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18157996965621648,
+      "iteration": 15,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18157996965621648,
+      "iteration": 16,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18157996965621648,
+      "iteration": 17,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18157996965621648,
+      "iteration": 18,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18157996965621648,
+      "iteration": 19,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18157996965621648,
+      "iteration": 20,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18157996965621648,
+      "iteration": 21,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18157996965621648,
+      "iteration": 22,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18157996965621648,
+      "iteration": 23,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18157996965621648,
+      "iteration": 24,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18157996965621648,
+      "iteration": 25,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18157996965621648,
+      "iteration": 26,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 27,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 28,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 29,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 30,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 31,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 32,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 33,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 34,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 35,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 36,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 37,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 38,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 39,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 40,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 41,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 42,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 43,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 44,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 45,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 46,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 47,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 48,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 49,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 50,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 51,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 52,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 53,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 54,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 55,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 56,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 57,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 58,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 59,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 60,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 61,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 62,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 63,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 64,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 65,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 66,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 67,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 68,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 69,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 70,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 71,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 72,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 73,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 74,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 75,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 76,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 77,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 78,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 79,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 80,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 81,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 82,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 83,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 84,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 85,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 86,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 87,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 88,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 89,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 90,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 91,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 92,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 93,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 94,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 95,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18930461428423218,
+      "iteration": 96,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18971557095367778,
+      "iteration": 97,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18971557095367778,
+      "iteration": 98,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18971557095367778,
+      "iteration": 99,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18971557095367778,
+      "iteration": 100,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18971557095367778,
+      "iteration": 101,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18971557095367778,
+      "iteration": 102,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.18971557095367778,
+      "iteration": 103,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19006464620287608,
+      "iteration": 104,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19006464620287608,
+      "iteration": 105,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19006464620287608,
+      "iteration": 106,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19006464620287608,
+      "iteration": 107,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19006464620287608,
+      "iteration": 108,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19006464620287608,
+      "iteration": 109,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19006464620287608,
+      "iteration": 110,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19006464620287608,
+      "iteration": 111,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19006464620287608,
+      "iteration": 112,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19006464620287608,
+      "iteration": 113,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19006464620287608,
+      "iteration": 114,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19006464620287608,
+      "iteration": 115,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19006464620287608,
+      "iteration": 116,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19006464620287608,
+      "iteration": 117,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19032268733070865,
+      "iteration": 118,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19032268733070865,
+      "iteration": 119,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.19032268733070865,
+      "iteration": 120,
+      "term": "waistcirc"
+    },
+    {
+      "coefficient": 0.09023737303557837,
+      "iteration": 1,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.09023737303557837,
+      "iteration": 2,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.1643044925331622,
+      "iteration": 3,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.1643044925331622,
+      "iteration": 4,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.2250953238484626,
+      "iteration": 5,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.2250953238484626,
+      "iteration": 6,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.2250953238484626,
+      "iteration": 7,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.2250953238484626,
+      "iteration": 8,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.26800907740048413,
+      "iteration": 9,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.26800907740048413,
+      "iteration": 10,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.303845564406322,
+      "iteration": 11,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.303845564406322,
+      "iteration": 12,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.303845564406322,
+      "iteration": 13,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.303845564406322,
+      "iteration": 14,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3294331751502211,
+      "iteration": 15,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3294331751502211,
+      "iteration": 16,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3294331751502211,
+      "iteration": 17,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3294331751502211,
+      "iteration": 18,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3294331751502211,
+      "iteration": 19,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3294331751502211,
+      "iteration": 20,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3294331751502211,
+      "iteration": 21,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.344060700329499,
+      "iteration": 22,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.344060700329499,
+      "iteration": 23,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.344060700329499,
+      "iteration": 24,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.344060700329499,
+      "iteration": 25,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.344060700329499,
+      "iteration": 26,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.344060700329499,
+      "iteration": 27,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.344060700329499,
+      "iteration": 28,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.344060700329499,
+      "iteration": 29,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.344060700329499,
+      "iteration": 30,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.344060700329499,
+      "iteration": 31,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.344060700329499,
+      "iteration": 32,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.344060700329499,
+      "iteration": 33,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.344060700329499,
+      "iteration": 34,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.344060700329499,
+      "iteration": 35,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.34887810717508655,
+      "iteration": 36,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.34887810717508655,
+      "iteration": 37,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.34887810717508655,
+      "iteration": 38,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.34887810717508655,
+      "iteration": 39,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.34887810717508655,
+      "iteration": 40,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.34887810717508655,
+      "iteration": 41,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.34887810717508655,
+      "iteration": 42,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.34887810717508655,
+      "iteration": 43,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.34887810717508655,
+      "iteration": 44,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.34887810717508655,
+      "iteration": 45,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.34887810717508655,
+      "iteration": 46,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.34887810717508655,
+      "iteration": 47,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.34887810717508655,
+      "iteration": 48,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.34887810717508655,
+      "iteration": 49,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 50,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 51,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 52,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 53,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 54,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 55,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 56,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 57,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 58,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 59,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 60,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 61,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 62,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 63,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 64,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 65,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 66,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 67,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 68,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 69,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 70,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 71,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 72,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 73,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 74,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 75,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.35078804242645295,
+      "iteration": 76,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 77,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 78,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 79,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 80,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 81,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 82,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 83,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 84,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 85,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 86,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 87,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 88,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 89,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 90,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 91,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 92,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 93,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 94,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 95,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 96,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 97,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 98,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 99,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 100,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 101,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 102,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 103,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 104,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 105,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 106,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 107,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 108,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 109,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 110,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 111,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 112,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 113,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 114,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 115,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 116,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 117,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 118,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 119,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.3516257579736354,
+      "iteration": 120,
+      "term": "hipcirc"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 1,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 2,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 3,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 4,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 5,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 6,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 7,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 8,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 9,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 10,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 11,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 12,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 13,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 14,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 15,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 16,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 17,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 18,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 19,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 20,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 21,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 22,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 23,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 24,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 25,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 26,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 27,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 28,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 29,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 30,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 31,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 32,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 33,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 34,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 35,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 36,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 37,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 38,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 39,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 40,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 41,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 42,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 43,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 44,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 45,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 46,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 47,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 48,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 49,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 50,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 51,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 52,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 53,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 54,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 55,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 56,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.032320332193905475,
+      "iteration": 57,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.032320332193905475,
+      "iteration": 58,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.06292774394034116,
+      "iteration": 59,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.06292774394034116,
+      "iteration": 60,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.06292774394034116,
+      "iteration": 61,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.09171056458250312,
+      "iteration": 62,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.09171056458250312,
+      "iteration": 63,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.11894866301213633,
+      "iteration": 64,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.11894866301213633,
+      "iteration": 65,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.11894866301213633,
+      "iteration": 66,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.14531871666359483,
+      "iteration": 67,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.14531871666359483,
+      "iteration": 68,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.14531871666359483,
+      "iteration": 69,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.1700010239820297,
+      "iteration": 70,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.1700010239820297,
+      "iteration": 71,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.19279818096328807,
+      "iteration": 72,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.19279818096328807,
+      "iteration": 73,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.21436409257092415,
+      "iteration": 74,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.21436409257092415,
+      "iteration": 75,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.23476318290680948,
+      "iteration": 76,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.23476318290680948,
+      "iteration": 77,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.23476318290680948,
+      "iteration": 78,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.2536685793931543,
+      "iteration": 79,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.2536685793931543,
+      "iteration": 80,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.2715756649776227,
+      "iteration": 81,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.2715756649776227,
+      "iteration": 82,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.2715756649776227,
+      "iteration": 83,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.28896709186684966,
+      "iteration": 84,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.28896709186684966,
+      "iteration": 85,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.305373255605494,
+      "iteration": 86,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.305373255605494,
+      "iteration": 87,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.305373255605494,
+      "iteration": 88,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.3207379113095604,
+      "iteration": 89,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.3207379113095604,
+      "iteration": 90,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.33493388820086084,
+      "iteration": 91,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.33493388820086084,
+      "iteration": 92,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.3483729897979053,
+      "iteration": 93,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.3483729897979053,
+      "iteration": 94,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.3483729897979053,
+      "iteration": 95,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.3610075736055274,
+      "iteration": 96,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.3610075736055274,
+      "iteration": 97,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.37288524297933895,
+      "iteration": 98,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.37288524297933895,
+      "iteration": 99,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.3841399037681098,
+      "iteration": 100,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.3841399037681098,
+      "iteration": 101,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.3841399037681098,
+      "iteration": 102,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.39472986379327973,
+      "iteration": 103,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.39472986379327973,
+      "iteration": 104,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.40469109691157873,
+      "iteration": 105,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.40469109691157873,
+      "iteration": 106,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.40469109691157873,
+      "iteration": 107,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.4143795215653654,
+      "iteration": 108,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.4143795215653654,
+      "iteration": 109,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.4235295235692654,
+      "iteration": 110,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.4235295235692654,
+      "iteration": 111,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.43217148232131053,
+      "iteration": 112,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.43217148232131053,
+      "iteration": 113,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.43217148232131053,
+      "iteration": 114,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.43217148232131053,
+      "iteration": 115,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.43217148232131053,
+      "iteration": 116,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.44024943062069793,
+      "iteration": 117,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.44024943062069793,
+      "iteration": 118,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.44024943062069793,
+      "iteration": 119,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": -0.44024943062069793,
+      "iteration": 120,
+      "term": "elbowbreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 1,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 2,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 3,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 4,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 5,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 6,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 7,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 8,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 9,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 10,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 11,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 12,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 13,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 14,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 15,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.2844075550917332,
+      "iteration": 16,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.2844075550917332,
+      "iteration": 17,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.5268666954216453,
+      "iteration": 18,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.5268666954216453,
+      "iteration": 19,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.7335575394211119,
+      "iteration": 20,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.7335575394211119,
+      "iteration": 21,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.7335575394211119,
+      "iteration": 22,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.7335575394211119,
+      "iteration": 23,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.8875145587332633,
+      "iteration": 24,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.0260758761142,
+      "iteration": 25,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.0260758761142,
+      "iteration": 26,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.0260758761142,
+      "iteration": 27,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.0260758761142,
+      "iteration": 28,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.1297804325656522,
+      "iteration": 29,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.1297804325656522,
+      "iteration": 30,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.2183357289198735,
+      "iteration": 31,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.2183357289198735,
+      "iteration": 32,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.2937460061493409,
+      "iteration": 33,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.2937460061493409,
+      "iteration": 34,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.3581244558631511,
+      "iteration": 35,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.3581244558631511,
+      "iteration": 36,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.3581244558631511,
+      "iteration": 37,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.4088724403330644,
+      "iteration": 38,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.4088724403330644,
+      "iteration": 39,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.4521811043265205,
+      "iteration": 40,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.4521811043265205,
+      "iteration": 41,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.4890358838165174,
+      "iteration": 42,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.4890358838165174,
+      "iteration": 43,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.5217686293696988,
+      "iteration": 44,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.5217686293696988,
+      "iteration": 45,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.5217686293696988,
+      "iteration": 46,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.5492676669103815,
+      "iteration": 47,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.5492676669103815,
+      "iteration": 48,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.5492676669103815,
+      "iteration": 49,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.5492676669103815,
+      "iteration": 50,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.5492676669103815,
+      "iteration": 51,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.5703083413281755,
+      "iteration": 52,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.5703083413281755,
+      "iteration": 53,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.5889920727785465,
+      "iteration": 54,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.5889920727785465,
+      "iteration": 55,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.5889920727785465,
+      "iteration": 56,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.5889920727785465,
+      "iteration": 57,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.6053938118403448,
+      "iteration": 58,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.6053938118403448,
+      "iteration": 59,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.6208625055071975,
+      "iteration": 60,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.6208625055071975,
+      "iteration": 61,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.6208625055071975,
+      "iteration": 62,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.635260844534399,
+      "iteration": 63,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.635260844534399,
+      "iteration": 64,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.635260844534399,
+      "iteration": 65,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.648105548296657,
+      "iteration": 66,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.648105548296657,
+      "iteration": 67,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.648105548296657,
+      "iteration": 68,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.6601183764103984,
+      "iteration": 69,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.6601183764103984,
+      "iteration": 70,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.6601183764103984,
+      "iteration": 71,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.6601183764103984,
+      "iteration": 72,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.6714386266211865,
+      "iteration": 73,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.6714386266211865,
+      "iteration": 74,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.682125092926311,
+      "iteration": 75,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.682125092926311,
+      "iteration": 76,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.682125092926311,
+      "iteration": 77,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.682125092926311,
+      "iteration": 78,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.682125092926311,
+      "iteration": 79,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.6917584153222887,
+      "iteration": 80,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.6917584153222887,
+      "iteration": 81,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7008421160816687,
+      "iteration": 82,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7008421160816687,
+      "iteration": 83,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7008421160816687,
+      "iteration": 84,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7089816931429893,
+      "iteration": 85,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7089816931429893,
+      "iteration": 86,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7089816931429893,
+      "iteration": 87,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7165855217816,
+      "iteration": 88,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7165855217816,
+      "iteration": 89,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7165855217816,
+      "iteration": 90,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7165855217816,
+      "iteration": 91,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7237408824579452,
+      "iteration": 92,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7237408824579452,
+      "iteration": 93,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7304911930359816,
+      "iteration": 94,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7304911930359816,
+      "iteration": 95,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7304911930359816,
+      "iteration": 96,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7304911930359816,
+      "iteration": 97,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7304911930359816,
+      "iteration": 98,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7365888437827042,
+      "iteration": 99,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7365888437827042,
+      "iteration": 100,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.742336747897148,
+      "iteration": 101,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.742336747897148,
+      "iteration": 102,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.742336747897148,
+      "iteration": 103,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.742336747897148,
+      "iteration": 104,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.742336747897148,
+      "iteration": 105,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7475238653829364,
+      "iteration": 106,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7475238653829364,
+      "iteration": 107,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7475238653829364,
+      "iteration": 108,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7521710736950626,
+      "iteration": 109,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7521710736950626,
+      "iteration": 110,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7565649553098028,
+      "iteration": 111,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7565649553098028,
+      "iteration": 112,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7565649553098028,
+      "iteration": 113,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7565649553098028,
+      "iteration": 114,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7565649553098028,
+      "iteration": 115,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7606718051369283,
+      "iteration": 116,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7606718051369283,
+      "iteration": 117,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7606718051369283,
+      "iteration": 118,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7606718051369283,
+      "iteration": 119,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 1.7606718051369283,
+      "iteration": 120,
+      "term": "kneebreadth"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 1,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 2,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 3,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 4,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 5,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 1.3170276772007998,
+      "iteration": 6,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 1.3170276772007998,
+      "iteration": 7,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 2.412309111491335,
+      "iteration": 8,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 2.412309111491335,
+      "iteration": 9,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 10,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 11,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 12,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 13,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 14,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 15,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 16,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 17,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 18,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 19,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 20,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 21,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 22,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 23,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 24,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 25,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 26,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 27,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 28,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 29,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 30,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 31,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 32,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 33,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 34,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 35,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 36,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 37,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 38,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 39,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 40,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 41,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 42,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 43,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 44,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 45,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 46,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 47,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 48,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 49,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 50,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 51,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 52,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 53,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 54,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 55,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 56,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 57,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 58,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 59,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 60,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 61,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 62,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 63,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 64,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 65,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 66,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 67,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 68,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 69,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 70,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 71,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 72,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 73,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 74,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 75,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 76,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 77,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 78,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 79,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 80,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 81,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 82,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 83,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 84,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 85,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 86,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 87,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 88,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 89,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 90,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 91,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 92,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 93,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 94,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 95,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 96,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 97,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 98,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 99,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 100,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 101,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 102,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 103,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 104,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 105,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 106,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 107,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 108,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 109,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 110,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 111,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 112,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 113,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 114,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 115,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 116,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 117,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 118,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 119,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 3.326860269603054,
+      "iteration": 120,
+      "term": "anthro3a"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 1,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 2,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 3,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 4,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 5,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 6,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 7,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 8,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 9,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 10,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 11,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 0.7490089098689279,
+      "iteration": 12,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 0.7490089098689279,
+      "iteration": 13,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 1.3744479172095048,
+      "iteration": 14,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 1.3744479172095048,
+      "iteration": 15,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 1.3744479172095048,
+      "iteration": 16,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 1.8712095144088543,
+      "iteration": 17,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 1.8712095144088543,
+      "iteration": 18,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 2.294959990088264,
+      "iteration": 19,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 2.294959990088264,
+      "iteration": 20,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 2.294959990088264,
+      "iteration": 21,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 2.294959990088264,
+      "iteration": 22,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 2.6004975662182117,
+      "iteration": 23,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 2.6004975662182117,
+      "iteration": 24,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 2.6004975662182117,
+      "iteration": 25,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 2.847328582563029,
+      "iteration": 26,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 2.847328582563029,
+      "iteration": 27,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.05369249696263,
+      "iteration": 28,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.05369249696263,
+      "iteration": 29,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.2294391965143006,
+      "iteration": 30,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.2294391965143006,
+      "iteration": 31,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.2294391965143006,
+      "iteration": 32,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.2294391965143006,
+      "iteration": 33,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.3578178628764963,
+      "iteration": 34,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.3578178628764963,
+      "iteration": 35,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.3578178628764963,
+      "iteration": 36,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.4598650626060885,
+      "iteration": 37,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.4598650626060885,
+      "iteration": 38,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.546823411051271,
+      "iteration": 39,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.546823411051271,
+      "iteration": 40,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.546823411051271,
+      "iteration": 41,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.546823411051271,
+      "iteration": 42,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.546823411051271,
+      "iteration": 43,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.546823411051271,
+      "iteration": 44,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 45,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 46,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 47,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 48,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 49,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 50,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 51,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 52,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 53,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 54,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 55,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 56,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 57,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 58,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 59,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 60,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 61,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 62,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 63,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 64,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 65,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 66,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 67,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 68,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 69,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6051547899193688,
+      "iteration": 70,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.626787400138294,
+      "iteration": 71,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.626787400138294,
+      "iteration": 72,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.626787400138294,
+      "iteration": 73,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.626787400138294,
+      "iteration": 74,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.626787400138294,
+      "iteration": 75,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.626787400138294,
+      "iteration": 76,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.626787400138294,
+      "iteration": 77,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.626787400138294,
+      "iteration": 78,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.626787400138294,
+      "iteration": 79,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.626787400138294,
+      "iteration": 80,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.626787400138294,
+      "iteration": 81,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.626787400138294,
+      "iteration": 82,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.642878897930166,
+      "iteration": 83,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.642878897930166,
+      "iteration": 84,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.642878897930166,
+      "iteration": 85,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.642878897930166,
+      "iteration": 86,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.642878897930166,
+      "iteration": 87,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.642878897930166,
+      "iteration": 88,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.642878897930166,
+      "iteration": 89,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 90,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 91,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 92,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 93,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 94,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 95,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 96,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 97,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 98,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 99,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 100,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 101,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 102,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 103,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 104,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 105,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6565239932626303,
+      "iteration": 106,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.665535318323433,
+      "iteration": 107,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.665535318323433,
+      "iteration": 108,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.665535318323433,
+      "iteration": 109,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.665535318323433,
+      "iteration": 110,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.665535318323433,
+      "iteration": 111,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.665535318323433,
+      "iteration": 112,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6734293293333646,
+      "iteration": 113,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6734293293333646,
+      "iteration": 114,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6734293293333646,
+      "iteration": 115,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6734293293333646,
+      "iteration": 116,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6734293293333646,
+      "iteration": 117,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6734293293333646,
+      "iteration": 118,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6734293293333646,
+      "iteration": 119,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 3.6810514510800028,
+      "iteration": 120,
+      "term": "anthro3b"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 1,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 2,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 3,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 4,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 5,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 6,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 7,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 8,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 9,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 10,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 11,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 12,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 13,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 14,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 15,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 16,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 17,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 18,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 19,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 20,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.3113020718310736,
+      "iteration": 21,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.3113020718310736,
+      "iteration": 22,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.3113020718310736,
+      "iteration": 23,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.3113020718310736,
+      "iteration": 24,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.3113020718310736,
+      "iteration": 25,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.3113020718310736,
+      "iteration": 26,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.3113020718310736,
+      "iteration": 27,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.3113020718310736,
+      "iteration": 28,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.3113020718310736,
+      "iteration": 29,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.3113020718310736,
+      "iteration": 30,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.3113020718310736,
+      "iteration": 31,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.4404122250890246,
+      "iteration": 32,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.4404122250890246,
+      "iteration": 33,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.4404122250890246,
+      "iteration": 34,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.4404122250890246,
+      "iteration": 35,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.4404122250890246,
+      "iteration": 36,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.4404122250890246,
+      "iteration": 37,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.4404122250890246,
+      "iteration": 38,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.4404122250890246,
+      "iteration": 39,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.4404122250890246,
+      "iteration": 40,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5043133474657596,
+      "iteration": 41,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5043133474657596,
+      "iteration": 42,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5043133474657596,
+      "iteration": 43,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5043133474657596,
+      "iteration": 44,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5043133474657596,
+      "iteration": 45,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5043133474657596,
+      "iteration": 46,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5043133474657596,
+      "iteration": 47,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5043133474657596,
+      "iteration": 48,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.544639223646489,
+      "iteration": 49,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.544639223646489,
+      "iteration": 50,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.544639223646489,
+      "iteration": 51,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.544639223646489,
+      "iteration": 52,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.544639223646489,
+      "iteration": 53,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.544639223646489,
+      "iteration": 54,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5729962672779428,
+      "iteration": 55,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5729962672779428,
+      "iteration": 56,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5729962672779428,
+      "iteration": 57,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5729962672779428,
+      "iteration": 58,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5729962672779428,
+      "iteration": 59,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5729962672779428,
+      "iteration": 60,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5729962672779428,
+      "iteration": 61,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5729962672779428,
+      "iteration": 62,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5729962672779428,
+      "iteration": 63,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5729962672779428,
+      "iteration": 64,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 65,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 66,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 67,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 68,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 69,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 70,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 71,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 72,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 73,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 74,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 75,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 76,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 77,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 78,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 79,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 80,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 81,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 82,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 83,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 84,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 85,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 86,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 87,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 88,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 89,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 90,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 91,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 92,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 93,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 94,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 95,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 96,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 97,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 98,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 99,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 100,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 101,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 102,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 103,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 104,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 105,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 106,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 107,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 108,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 109,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 110,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 111,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 112,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 113,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 114,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 115,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 116,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 117,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 118,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 119,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.5953626139070601,
+      "iteration": 120,
+      "term": "anthro3c"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 1,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 2,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 3,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 4,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 5,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 6,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 7,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 8,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 9,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 10,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 11,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 12,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 13,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 14,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 15,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 16,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 17,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 18,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 19,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 20,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 21,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 22,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 23,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 24,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 25,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 26,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 27,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 28,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 29,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 30,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 31,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 32,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 33,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 34,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 35,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 36,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 37,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 38,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 39,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 40,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 41,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 42,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 43,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 44,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 45,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 46,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 47,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 48,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 49,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 50,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 51,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 52,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 53,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 54,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 55,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 56,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 57,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 58,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 59,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 60,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 61,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 62,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 63,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 64,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 65,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 66,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 67,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 68,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 69,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 70,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 71,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 72,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 73,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 74,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 75,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 76,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 77,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 78,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 79,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 80,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 81,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 82,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 83,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 84,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 85,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 86,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 87,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 88,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 89,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 90,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 91,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 92,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 93,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 94,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 95,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 96,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 97,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 98,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 99,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 100,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 101,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 102,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 103,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 104,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 105,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 106,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 107,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 108,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 109,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 110,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 111,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 112,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 113,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": 0.0,
+      "iteration": 114,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": -0.005819965162357614,
+      "iteration": 115,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": -0.005819965162357614,
+      "iteration": 116,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": -0.005819965162357614,
+      "iteration": 117,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": -0.005819965162357614,
+      "iteration": 118,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": -0.011626193151794424,
+      "iteration": 119,
+      "term": "anthro4"
+    },
+    {
+      "coefficient": -0.011626193151794424,
+      "iteration": 120,
+      "term": "anthro4"
+    }
+  ],
+  "mstop": 120,
+  "risk": [
+    8535.983836619718,
+    7215.900404743986,
+    6125.25491019718,
+    5235.891202984552,
+    4500.178363360077,
+    3901.070999616485,
+    3384.799747469554,
+    2961.987160617522,
+    2604.928483559567,
+    2306.375443117329,
+    2057.430019352912,
+    1849.230677382495,
+    1673.2658140131184,
+    1524.7765083960526,
+    1402.0829064219756,
+    1295.9407361258395,
+    1206.1419019774953,
+    1128.7406441463809,
+    1063.4778652185212,
+    1007.1566020859622,
+    959.7290272797319,
+    918.6271783158484,
+    883.939901868813,
+    854.6592159042921,
+    828.3451820513931,
+    807.030814630545,
+    787.9212210017837,
+    772.3032617225446,
+    758.9459364105242,
+    747.0064920206189,
+    737.318665693621,
+    728.6126885637298,
+    721.5427094605401,
+    715.2295099356852,
+    710.0601388608931,
+    705.4589562584367,
+    701.6966413483842,
+    698.4303556270389,
+    695.5712774081827,
+    693.1994965784853,
+    691.1172219205836,
+    689.3853558280296,
+    687.8774435600436,
+    686.5890021571835,
+    685.3995326599412,
+    684.3323064706734,
+    683.3850442730848,
+    682.5455390003226,
+    681.7986881416684,
+    681.108980621266,
+    680.517601780268,
+    679.9691975170688,
+    679.4777153633388,
+    679.0454022886984,
+    678.6578630577418,
+    678.3168121265066,
+    677.9949266313594,
+    677.7056511015036,
+    677.4069971693921,
+    677.1475713017919,
+    676.8819299274655,
+    676.6418129757692,
+    676.4123953564058,
+    676.1822441630325,
+    675.9767906196058,
+    675.7646189278257,
+    675.5814564012865,
+    675.3888893001105,
+    675.2230164228096,
+    675.0628103530069,
+    674.8941039457841,
+    674.7473229468168,
+    674.603402848981,
+    674.4611370547744,
+    674.3323430321764,
+    674.2055612997677,
+    674.090327026199,
+    673.9765586278644,
+    673.8720579851146,
+    673.7730815868792,
+    673.6700570596395,
+    673.5812576896612,
+    673.4896537655277,
+    673.408437142284,
+    673.3246783326158,
+    673.2511267335921,
+    673.1765893491167,
+    673.1078629770448,
+    673.0436750896129,
+    672.9783009882944,
+    672.9199020250275,
+    672.864094773615,
+    672.8072551098517,
+    672.7572400790901,
+    672.7066534255724,
+    672.6608790715022,
+    672.6166729974341,
+    672.5724692249927,
+    672.5334011034462,
+    672.4921235895787,
+    672.4570463922339,
+    672.4203682382215,
+    672.3885025558666,
+    672.3574463277931,
+    672.3255525927578,
+    672.2980745197175,
+    672.2682041491969,
+    672.2427341283204,
+    672.2167405303137,
+    672.1927647516384,
+    672.1695800001933,
+    672.1481468926391,
+    672.1274652778797,
+    672.107919748192,
+    672.08968444334,
+    672.0713833520481,
+    672.0526590307188,
+    672.0345888621251,
+    672.0171609592378,
+    671.9989461600609,
+    671.9807238365929
+  ],
+  "varimp": [
+    {
+      "reduction": 0.0,
+      "term": "(Intercept)"
+    },
+    {
+      "reduction": 0.0698626686927611,
+      "term": "age"
+    },
+    {
+      "reduction": 33.99115086380255,
+      "term": "waistcirc"
+    },
+    {
+      "reduction": 48.740898508974134,
+      "term": "hipcirc"
+    },
+    {
+      "reduction": 0.03542082585035367,
+      "term": "elbowbreadth"
+    },
+    {
+      "reduction": 4.127510848261429,
+      "term": "kneebreadth"
+    },
+    {
+      "reduction": 15.806695112243702,
+      "term": "anthro3a"
+    },
+    {
+      "reduction": 7.268179095972397,
+      "term": "anthro3b"
+    },
+    {
+      "reduction": 0.7203749901837303,
+      "term": "anthro3c"
+    },
+    {
+      "reduction": 0.0005143083164630554,
+      "term": "anthro4"
+    }
+  ]
+}
