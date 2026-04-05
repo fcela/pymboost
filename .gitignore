@@ -205,3 +205,26 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Local docs / Quarto / notebook render state
+.DS_Store
+.quarto-cache/
+.quarto-home/
+.virtual_documents/
+.omx/
+_build/
+pymboost.egg-info/
+public/
+docs/_site/
+docs/.virtual_documents/
+docs/.ipynb_checkpoints/
+book/_build/
+
+# Internal workflow / planning notes not intended for publication
+AGENTS.md
+BOOK_IMPROVEMENTS.md
+BOOK_IMPROVEMENT_STATUS.md
+MIGRATION_PLAN.md
+PLAN_BOOK.md
+#PARITY_GAPS.md
+PLOTTING_INVENTORY.md
