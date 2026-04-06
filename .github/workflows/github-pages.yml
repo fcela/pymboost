@@ -21,6 +21,75 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
+(lab) fcela@Fernandos-MacBook-Air pymboost %
+  git status --short .github
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name: github-pages
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -45,6 +114,14 @@ jobs:
       - name: Build Jupyter Book
         run: |
           PYTHONPATH=. jupyter-book build book
+          test -d book/_build/html
+          ls -la book/_build
+          ls -la book/_build/html
+
+      - name: Prepare Pages artifact
+        run: |
+          mkdir -p public
+          cp -R book/_build/html/. public/
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
@@ -52,7 +129,7 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: book/_build/html
+          path: public
 
   deploy:
     needs: build
