@@ -1,0 +1,61 @@
+stages:
+  - test
+  - build
+  - deploy
+
+variables:
+  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
+  PIP_DISABLE_PIP_VERSION_CHECK: "1"
+  PYTHONUNBUFFERED: "1"
+  DEBIAN_FRONTEND: "noninteractive"
+
+cache:
+  paths:
+    - .cache/pip
+
+default:
+  image: python:3.11-bookworm
+  before_script:
+    - python --version
+    - pip install --upgrade pip
+
+workflow:
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+    - if: $CI_COMMIT_BRANCH
+
+test:
+  stage: test
+  script:
+    - bash scripts/ci/install_r_stack.sh
+    - pip install -e '.[plot,test,rtest]'
+    - python -m pytest -q --junitxml=pytest-report.xml
+  artifacts:
+    when: always
+    reports:
+      junit: pytest-report.xml
+
+build:
+  stage: build
+  script:
+    - pip install -e '.[build]'
+    - python -m build
+  artifacts:
+    paths:
+      - dist/
+    expire_in: 1 week
+
+pages:
+  stage: deploy
+  needs:
+    - job: test
+    - job: build
+  script:
+    - pip install -e '.[docs]'
+    - bash scripts/ci/render_book.sh
+  artifacts:
+    paths:
+      - public
+    expire_in: 1 week
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
