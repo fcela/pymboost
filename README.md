@@ -74,6 +74,7 @@ plot(fit)
 
 ## Docs
 
+- Live manual: https://fcela.github.io/pymboost/intro.html
 - Canonical docs source: [book](/Users/fcela/src/public_github/pymboost/book)
 - Status and roadmap: [status-and-roadmap.md](/Users/fcela/src/public_github/pymboost/book/status-and-roadmap.md)
 - Hands-on tutorial: [hands-on-tutorial.md](/Users/fcela/src/public_github/pymboost/book/hands-on-tutorial.md)
