@@ -35,8 +35,7 @@ jobs:
 
       - name: Install R packages required by the book
         run: |
-          Rscript -e 'install.packages(c("mboost", "TH.data", "
-stabs"), repos = "https://cloud.r-project.org")'
+          Rscript -e 'install.packages(c("mboost", "TH.data", "stabs"), repos = "https://cloud.r-project.org")'
 
       - name: Install Python dependencies for docs
         run: |
@@ -73,33 +72,4 @@ stabs"), repos = "https://cloud.r-project.org")'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
